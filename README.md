@@ -1,4 +1,3 @@
-# Week1-Python-Assignments
 # Week 1 Python Assignments & Mini Project
 
 ## Overview
